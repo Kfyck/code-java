@@ -347,33 +347,4 @@ public class AssignmentQueueAttendanceNo {
 
 File: [`src/assignment/AssignmentQueueAttendanceNo.java`](src/assignment/AssignmentQueueAttendanceNo.java)
 
----
 
-# How to Run
-
-Make sure Java JDK is installed.
-
-```bash
-cd src/assignment
-javac AssignmentQueueAttendanceNo.java
-java AssignmentQueueAttendanceNo
-```
-
-Or compile any Java file directly:
-
-```bash
-javac NamaFile.java
-java NamaFile
-```
-
-## GitHub
-
-1. Extract the ZIP.
-2. Create a GitHub repository.
-3. Upload all folders and files.
-4. Keep `README.md` in the repository root.
-5. GitHub will render the Markdown, code blocks, and SVG diagram automatically.
-
-## Source
-
-This repository is based on the uploaded **JOBSHEET 4**, covering Experiment 1, Experiment 2, and the assignments. 
