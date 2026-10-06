@@ -14,28 +14,6 @@
 - `default`
 - Ternary operator `?:`
 
-## Repository Structure
-```text
-JOBSHEET-4/
-├── README.md
-├── .gitignore
-├── images/
-│   └── selection-flow.svg
-└── src/
-    ├── experiment1/
-    │   └── PemilihanIf15.java
-    ├── experiment2/
-    │   ├── PemilihanSwitch15.java
-    │   └── SelectionIfElse15.java
-    └── assignment/
-        ├── Assignment1SelectionAttendanceNo.java
-        ├── Assignment2SelectionAttendanceNo.java
-        ├── AssignmentParkingAttendanceNo.java
-        └── AssignmentQueueAttendanceNo.java
-```
-
-![Java Selection Flow](images/selection-flow.svg)
-
 ---
 
 # Experiment 1 — IF / IF-ELSE
