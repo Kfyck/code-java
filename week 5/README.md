@@ -1,4 +1,4 @@
-# JOBSHEET 4 — Selection gantenk
+# JOBSHEET 4 — Selection 
 
 **Name:** Ilyasa Aghlazabarjad Saleksa  
 **NIM:** 264107020234  
